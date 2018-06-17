@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="3" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="65303" started-at="2018-06-15T01:42:41Z" finished-at="2018-06-15T01:43:46Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="65303" started-at="2018-06-15T01:42:41Z" finished-at="2018-06-15T01:43:46Z">
+      <class name="scripts.TC4">
+        <test-method status="PASS" signature="report()[pri:0, instance:scripts.TC4@1200458e]" name="report" is-config="true" duration-ms="1088" started-at="2018-06-15T01:42:41Z" finished-at="2018-06-15T01:42:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- report -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:scripts.TC4@1200458e]" name="beforeClass" is-config="true" duration-ms="22551" started-at="2018-06-15T01:42:42Z" finished-at="2018-06-15T01:43:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="method(java.lang.reflect.Method)[pri:0, instance:scripts.TC4@1200458e]" name="method" is-config="true" duration-ms="30" started-at="2018-06-15T01:43:04Z" finished-at="2018-06-15T01:43:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void scripts.TC4.testNewToursLogin() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method -->
+        <test-method status="PASS" signature="testNewToursLogin()[pri:0, instance:scripts.TC4@1200458e]" name="testNewToursLogin" duration-ms="11894" started-at="2018-06-15T01:43:04Z" finished-at="2018-06-15T01:43:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testNewToursLogin -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:scripts.TC4@1200458e]" name="afterClass" is-config="true" duration-ms="4293" started-at="2018-06-15T01:43:16Z" finished-at="2018-06-15T01:43:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- scripts.TC4 -->
+      <class name="scripts.TC5">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:scripts.TC5@5fcd1c5f]" name="beforeClass" is-config="true" duration-ms="7087" started-at="2018-06-15T01:43:21Z" finished-at="2018-06-15T01:43:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="method(java.lang.reflect.Method)[pri:0, instance:scripts.TC5@5fcd1c5f]" name="method" is-config="true" duration-ms="1" started-at="2018-06-15T01:43:28Z" finished-at="2018-06-15T01:43:28Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void scripts.TC5.testNewToursLoginExcel() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method -->
+        <test-method status="PASS" signature="testNewToursLoginExcel()[pri:0, instance:scripts.TC5@5fcd1c5f]" name="testNewToursLoginExcel" duration-ms="15995" started-at="2018-06-15T01:43:28Z" finished-at="2018-06-15T01:43:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testNewToursLoginExcel -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:scripts.TC5@5fcd1c5f]" name="afterClass" is-config="true" duration-ms="2247" started-at="2018-06-15T01:43:44Z" finished-at="2018-06-15T01:43:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- scripts.TC5 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
