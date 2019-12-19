@@ -13,5 +13,6 @@ public class TC4 extends StartBrowser{
 	  f.newLogin();
 	  f.newFlights();
 	  f.newLogOff();
+	  System.out.println("This is for testing end");
   }
 }

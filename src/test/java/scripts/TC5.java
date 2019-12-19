@@ -17,5 +17,6 @@ public class TC5 extends StartBrowser{
 	  f.newLogin(uName, password);
 	  f.newFlights();
 	  f.newLogOff();
+	  System.out.println("This is for testing");
   }
 }
